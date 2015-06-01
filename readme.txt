@@ -12,7 +12,7 @@ Do not miss a single sale! This plugin is very useful to catch every possible sa
 	
 
 == Description ==
-If the customer can't pay with your payment gateways, give him the opportunity to submit the order and send to you a note on payment options he can pay you with. The plugin is very simple and effective. The more important is it's very easy to setup and use.
+If the customer can't pay with your payment gateways, give him the opportunity to submit the order and send to you a note on payment options he can pay you with. The plugin is very simple and effective. The more important thing is it's very easy to setup and use.
 
 == Installation ==
 
