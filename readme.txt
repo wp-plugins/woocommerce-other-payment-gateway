@@ -41,6 +41,11 @@ If the customer can't pay with your payment gateways, give him the opportunity t
 4. Activate the plugin in the Plugin dashboard
 
 
+== Screenshots ==
+
+1. The buyer can choose another payment option and write a note for you.
+2. You can customize the message that should be shown to the buyer.
+3. After placing the order, You'll see the customer's note in the order page. After that you can contact him to manage the payment.
 
 
 == Changelog ==
